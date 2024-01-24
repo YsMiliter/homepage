@@ -1,0 +1,10 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    cursor: url(../cursor/Arrow.png), auto;
+}
+
+/** 链接指针样式**/
+a:hover {
+    cursor: url(../cursor/Hand.png), pointer;
+}
